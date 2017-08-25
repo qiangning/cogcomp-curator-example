@@ -1,0 +1,12 @@
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/IllinoisLemmatizerInterface.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MASCevaluationResult.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/Morpha.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MorphaLemmatizerInterface.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/WordnetLemmaReader.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/IllinoisLemmatizer.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/LemmatizerConfigurator.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MorphaStemmer.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MASCevaluation.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/StanfordLemmatizerInterface.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/LemmatizerInterface.java
+/home/qning2/Research/cogcomp-nlp/lemmatizer/src/main/java/edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/JWILemmatizerInterface.java

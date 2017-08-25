@@ -1,0 +1,10 @@
+edu/illinois/cs/cogcomp/curator/CuratorClient.class
+edu/illinois/cs/cogcomp/curator/RecordUtils.class
+edu/illinois/cs/cogcomp/curator/CuratorAnnotatorService.class
+edu/illinois/cs/cogcomp/curator/CuratorConfigurator.class
+edu/illinois/cs/cogcomp/curator/CuratorAnnotator.class
+edu/illinois/cs/cogcomp/curator/CuratorFactory.class
+edu/illinois/cs/cogcomp/curator/CuratorTextAnnotationBuilder.class
+edu/illinois/cs/cogcomp/curator/CuratorDataStructureInterface$1.class
+edu/illinois/cs/cogcomp/curator/CuratorDataStructureInterface$2.class
+edu/illinois/cs/cogcomp/curator/CuratorDataStructureInterface.class

@@ -1,0 +1,6 @@
+/home/qning2/Research/cogcomp-nlp/pipeline/src/main/java/edu/illinois/cs/cogcomp/pipeline/common/PipelineConfigurator.java
+/home/qning2/Research/cogcomp-nlp/pipeline/src/main/java/edu/illinois/cs/cogcomp/pipeline/server/MainServer.java
+/home/qning2/Research/cogcomp-nlp/pipeline/src/main/java/edu/illinois/cs/cogcomp/pipeline/server/ServerClientAnnotator.java
+/home/qning2/Research/cogcomp-nlp/pipeline/src/main/java/edu/illinois/cs/cogcomp/pipeline/main/PipelineFactory.java
+/home/qning2/Research/cogcomp-nlp/pipeline/src/main/java/edu/illinois/cs/cogcomp/pipeline/main/RunPipeline.java
+/home/qning2/Research/cogcomp-nlp/pipeline/src/main/java/edu/illinois/cs/cogcomp/pipeline/main/SentencePipeline.java

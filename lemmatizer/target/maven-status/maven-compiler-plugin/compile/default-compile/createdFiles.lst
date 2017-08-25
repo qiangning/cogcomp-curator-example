@@ -1,0 +1,14 @@
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MASCevaluation.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/IllinoisLemmatizer.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/WordnetLemmaReader.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/LemmatizerConfigurator.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MASCevaluationResult$1.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/IllinoisLemmatizerInterface.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/IllinoisLemmatizer$1.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MorphaStemmer.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/Morpha.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MASCevaluationResult.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/JWILemmatizerInterface.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/StanfordLemmatizerInterface.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/LemmatizerInterface.class
+edu/illinois/cs/cogcomp/nlp/lemmatizer/MASCevaluation/MorphaLemmatizerInterface.class

@@ -1,0 +1,13 @@
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/TokenizerState.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/UrlValidation.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/TokenizerStateMachine.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/utility/TokenizerUtilities.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/TokenType.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/utility/EvaluationCriteria.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/Acronyms.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/utility/TokenizerTextAnnotationBuilder.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/TextAnnotationTest.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/StatefulTokenizer.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/Contractions.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/StateProcessor.java
+/home/qning2/Research/cogcomp-nlp/tokenizer/src/main/java/edu/illinois/cs/cogcomp/nlp/tokenizer/IllinoisTokenizer.java
